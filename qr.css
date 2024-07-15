@@ -1,0 +1,75 @@
+/* Style.css */
+
+/* Apply styles to the body */
+body { 
+	font-family: "Ubuntu", sans-serif; 
+	background-color: rgb(12, 12, 12); 
+	margin: 0; 
+	padding: 0; 
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+	height: 100vh; 
+} 
+
+/* Style the container */
+.container { 
+	background-color: #7ff6e8; 
+	box-shadow: 0px 0px 10px
+		rgba(0, 0, 0, 0.1); 
+	border-radius: 5px; 
+	padding: 20px; 
+	text-align: center; 
+} 
+
+/* Style the header */
+.header { 
+	text-align: center; 
+} 
+
+/* Style the h1 element */
+h1 { 
+	font-size: 28px; 
+	margin-bottom: 10px; 
+	color: #f9f4f4; 
+} 
+
+/* Style the hr element */
+hr { 
+	border: 1px solid #dddddd; 
+	margin: 20px 0; 
+} 
+
+/* Style the input field */
+input[type="text"] { 
+	width: 100%; 
+	padding: 10px; 
+	font-size: 16px; 
+	border: 1px solid #ccc; 
+	border-radius: 5px; 
+	outline: none; 
+} 
+
+/* Style the QR code div */
+.qrcode { 
+	margin: 20px 0; 
+} 
+
+/* Style the button */
+button { 
+	background-color: #007bff; 
+	color: #ffffff; 
+	padding: 10px 20px; 
+	font-size: 16px; 
+	border: none; 
+	border-radius: 5px; 
+	cursor: pointer; 
+	outline: none; 
+} 
+
+/* Hover effect for the button */
+button:hover { 
+	background-color: #b300ad ; 
+}
+
+
