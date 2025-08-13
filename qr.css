@@ -42,7 +42,7 @@ hr {
 
 /* Style the input field */
 input[type="text"] { 
-	width: 100%; 
+	width: 90%; 
 	padding: 10px; 
 	font-size: 16px; 
 	border: 1px solid #ccc; 
@@ -71,5 +71,6 @@ button {
 button:hover { 
 	background-color: #b300ad ; 
 }
+
 
 
